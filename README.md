@@ -27,14 +27,14 @@ The Client document can be found:
 The Architectural Diagram was designed to include all aspects of the software system including end-users.
 
 <!-- Include image link-->
-[](https://github.com/AlanShami/system_design_of_clothing_store/blob/main/Architectural%20Diagram.png) 
+![](https://github.com/AlanShami/system_design_of_clothing_store/blob/main/Architectural%20Diagram.png) 
 
 
 
 Also, the database design for the software covers all chains of the store. 
 
 <!-- Incude database image -->
-[](https://github.com/AlanShami/system_design_of_clothing_store/blob/main/Final%20Database%20design.png)
+![](https://github.com/AlanShami/system_design_of_clothing_store/blob/main/Final%20Database%20design.png)
 
 ---
 Also, a complete testing for the software system was performed to make sure that the system works as expected and reduce bugs as much as possible.
