@@ -27,14 +27,14 @@ The Client document can be found:
 The Architectural Diagram was designed to include all aspects of the software system including end-users.
 
 <!-- Include image link-->
-[]() 
+[](https://github.com/AlanShami/system_design_of_clothing_store/blob/main/Architectural%20Diagram.png) 
 
 
 
-Also, the database design for the software that covers all chains of the store. 
+Also, the database design for the software covers all chains of the store. 
 
 <!-- Incude database image -->
-[]()
+[](https://github.com/AlanShami/system_design_of_clothing_store/blob/main/Final%20Database%20design.png)
 
 ---
 Also, a complete testing for the software system was performed to make sure that the system works as expected and reduce bugs as much as possible.
@@ -42,7 +42,7 @@ Also, a complete testing for the software system was performed to make sure that
 ---
 
 ### All files of the projects are below:
-* [Clothing Store Point of Sale System]()
-* [Clothing Store Point of Sale System Data Management]()
-* [Clothing Store Point of Sale System Test Plan]()
-* [Software Design Specification]()
+* [Clothing Store Point of Sale System](https://github.com/AlanShami/system_design_of_clothing_store/blob/main/Clothing%20Store%20Point%20of%20Sale%20System.pdf)
+* [Clothing Store Point of Sale System Data Management](https://github.com/AlanShami/system_design_of_clothing_store/blob/main/Data%20Management%20.pdf)
+* [Clothing Store Point of Sale System Test Plan](https://github.com/AlanShami/system_design_of_clothing_store/blob/main/Test%20Plan.pdf)
+* [Software Design Specification](https://github.com/AlanShami/system_design_of_clothing_store/blob/main/Software%20Design%20Specification.pdf)
